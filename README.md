@@ -40,7 +40,7 @@ Follow these steps to set up the project locally:
 
 Feel free to reach out with any feedback or questions:
 
-- **Email**: your.email@example.com
+- **Email**: [My Email](officialnomanahmed@gmailcom)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/noman7373/)
 - **GitHub**: [My GitHub Profile](https://github.com/Noman7373)
 
