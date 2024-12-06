@@ -22,7 +22,7 @@ const Main = () => {
           <p className="text-[13px] text-slate-500 md:text-[22px] sm:text-[18px] xs:text-[17px] font-[400]">
             I am a passionate{" "}
             <strong className="text-slate-900">
-              Mern Stack / Full Stack Developer
+              Mern Stack / Full Stack Web Developer
             </strong>
             , committed to delivering value and innovative solutions to
             businesses, organizations, and communities through my expertise in
