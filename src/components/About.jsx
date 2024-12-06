@@ -40,11 +40,11 @@ const About = () => {
                 <p className="md:text-[18px] text-slate-700   text-[15px] ">
                   My name is{" "}
                   <strong className="uppercase text-blue-500 font-bold">
-                    Noman Ahemd
+                    Noman Ahmed 
                   </strong>
                   , and I am a passionate{" "}
                   <strong className="capitalize">
-                    Mern Stack / Full Stack Developer
+                    Mern Stack / Full Stack Web Developer
                   </strong>
                   , committed to delivering value and innovative solutions to
                   businesses, organizations, and communities through my
